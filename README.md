@@ -34,6 +34,9 @@ __jobs -p__ -> 각 프로세스 ID에 대해 한 행씩 출력
 ## kill
 * 프로세스에 시그널을 보내는 명령어
   * 프로세스 종료에 주로 쓰임
- 
+
+kill [options] [pid]
+
 kill -l -> 전체 시그널 목록을 보여줌
-kill [options] <pid> 
+
+kill -9 [pid] -> pid에 해당하는 프로세스를 강제종료
