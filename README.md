@@ -10,7 +10,7 @@
 
 
 ## ps
-_Process _Status_
+_Process Status_
 * 현재 구동 중인 프로세스 정보를 확인할 수 있음
 
 __ ps __ -e -> 다른 사용자들이 구동시킨 프로세스도 보여줌
