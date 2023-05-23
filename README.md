@@ -22,9 +22,9 @@ __ps -e__ -> 다른 사용자들이 구동시킨 프로세스도 보여줌
 __ps -f__ -> 정보를 상세하게 보여줌
 
 __ps -l__ -> -f옵션보다 더 상세하게 보여줌 
-
-![ps -efl](https://github.com/haeseong6/Open-Source-SW/assets/133829902/7433be55-5c49-485f-82f2-33806f7fa933)
 ```
+![ps -efl](https://github.com/haeseong6/Open-Source-SW/assets/133829902/7433be55-5c49-485f-82f2-33806f7fa933)
+
 ## jobs
 * 현재 쉘 세션에서 실행시킨 백그라운드 작업의 목력이 축력됨
 
