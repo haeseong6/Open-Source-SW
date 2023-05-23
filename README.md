@@ -15,7 +15,8 @@ _Process Status_
 
 __ps -e__ -> 다른 사용자들이 구동시킨 프로세스도 보여줌
 
-__ps -f__ -> 정보를 상세하게 보여줌 _FUll format_
+__ps -f__ -> 정보를 상세하게 보여줌
 
-__ps -l__ -> -f옵션보다 더 상세하게 보여줌 _LONG format_
+__ps -l__ -> -f옵션보다 더 상세하게 보여줌 
 
+![ps -efl](https://github.com/haeseong6/Open-Source-SW/assets/133829902/7433be55-5c49-485f-82f2-33806f7fa933)
